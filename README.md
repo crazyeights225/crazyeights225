@@ -9,7 +9,7 @@
 
 - 💬 Ask me **Where the flags are hiding 🚩**
 
-- ⚡ Fun fact **I am trying to get better at pwn.**
+- ⚡ Fun fact `malloc()` is weird
 
 
 <h3 align="left">Languages and Tools:</h3>
